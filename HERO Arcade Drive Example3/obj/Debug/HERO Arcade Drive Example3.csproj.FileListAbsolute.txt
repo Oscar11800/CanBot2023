@@ -17,3 +17,22 @@ C:\Users\oscar\source\repos\HERO Arcade Drive Example3\HERO Arcade Drive Example
 C:\Users\oscar\source\repos\HERO Arcade Drive Example3\HERO Arcade Drive Example3\obj\Debug\be\HERO Arcade Drive Example3.pdbx
 C:\Users\oscar\source\repos\HERO Arcade Drive Example3\HERO Arcade Drive Example3\obj\Debug\le\HERO Arcade Drive Example3.pe
 C:\Users\oscar\source\repos\HERO Arcade Drive Example3\HERO Arcade Drive Example3\obj\Debug\le\HERO Arcade Drive Example3.pdbx
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\le\HERO Arcade Drive Example3.exe
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\be\HERO Arcade Drive Example3.exe
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\le\HERO Arcade Drive Example3.pdb
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\be\HERO Arcade Drive Example3.pdb
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\HERO Arcade Drive Example3.exe
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\HERO Arcade Drive Example3.pdb
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\le\HERO Arcade Drive Example3.pe
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\le\HERO Arcade Drive Example3.pdbx
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\be\HERO Arcade Drive Example3.pe
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\bin\Debug\be\HERO Arcade Drive Example3.pdbx
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\HERO Arcade Drive Example3.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\HERO Arcade Drive Example3.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\be\HERO Arcade Drive Example3.pe
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\be\HERO Arcade Drive Example3.pdbx
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\le\HERO Arcade Drive Example3.pe
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\le\HERO Arcade Drive Example3.pdbx
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\HERO Arcade Drive Example3.exe
+C:\Users\oscar\OneDrive\Desktop\Robotics\CanBot2023\Oscar11800\CanBot2023\HERO Arcade Drive Example3\obj\Debug\HERO Arcade Drive Example3.pdb

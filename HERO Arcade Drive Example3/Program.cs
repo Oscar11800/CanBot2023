@@ -24,6 +24,7 @@ namespace Hero_Arcade_Drive_Example3
         static StringBuilder stringBuilder = new StringBuilder();
         static PneumaticControlModule my_PCM = new PneumaticControlModule(0);
         static CTRE.Phoenix.Controller.GameController m_gamepad = null;
+        /*arcade drive w/ joysticks, right trigger crush, left trigger release, D mode enable, X mode disable*/
         // IO module stuff
         CTRE.Gadgeteer.Module.DriverModule driver = new DriverModule(CTRE.HERO.IO.Port5);
         //   bool drivelow = DriverModule.OutputState.driveLow;
@@ -103,7 +104,7 @@ namespace Hero_Arcade_Drive_Example3
                 //  running.Equals = true;
 
             }
-            /* The drive controller run at a maxium of 1/2 speed unless the "Turbo" button (Right Tab) is pressed which 
+            /* The drive controller run at a maximum of 1/2 speed unless the "Turbo" button (Right Tab) is pressed which 
              give full speed to the motor controllers*/
             //7 is left trigger
             bool turbo = m_gamepad.GetButton(6);
